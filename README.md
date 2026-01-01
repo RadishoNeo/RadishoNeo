@@ -12,9 +12,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CherryNo1/CherryNo1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CherryNo1/CherryNo1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CherryNo1/CherryNo1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadishoNeo/RadishoNeo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadishoNeo/RadishoNeo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RadishoNeo/RadishoNeo/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -25,7 +25,8 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/RadishoNeo?label=Total%20Stars&color=FF6A3D)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
