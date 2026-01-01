@@ -36,7 +36,7 @@ Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
-                <b><a target="_blank" href="https://alpaycelik.dev" style="color:#9DAAF2">RadishoNeo</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+                <b><a target="_blank" href="https://yoyou.org" style="color:#9DAAF2">RadishoNeo</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </b>
 </h3>
 <p align="center">
@@ -67,19 +67,47 @@ Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br />
 
 <!-- About Section -->
+---
 
-# About me
+# About Me
 
 <p>
  <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Cherry-min" />
-👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend or backend  developer job</code>.<br/><br/>
-✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
-❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
-📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hello@cherry-minelik.dev">cherry.min@yoyou.org</a><br/><br/>
-💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/RadishoNeo/RadishoNeo/issues">here</a>
+  
+🔍 &emsp; Full Stack Developer from China passionate about React ecosystem<br/><br/>
+  
+⚡ &emsp; Expert in Spring Cloud microservices & cloud-native architectures<br/><br/>
+  
+🚀 &emsp; Frontend specialist with shadcn/ui + Tailwind CSS combo<br/><br/>
+  
+🌐 &emsp; Portfolio: <a href="https://radishon.com">radishon.com</a><br/><br/>
+  
+📧 &emsp; Contact: <a href="mailto:qingbo.my@gmail.com">qingbo.my@gmail.com</a><br/><br/>
+  
+💬 &emsp; Let's discuss: <a href="https://github.com/RadishoNeo/RadishoNeo/issues">GitHub Issues</a>
 </p>
 
+## Tech Stack
 
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="20"/>
+
+### UI Frameworks (Current Stack)
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white" height="20"/>
+
+### Backend & Frameworks
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MyBatis-256DAC?style=flat&logo=apache&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" height="20"/>
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="20"/>
+
+### Middleware & DevOps
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" height="20"/>
+
+### Tools & Others
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Nacos-42A5F5?style=flat&logo=alibabacloud&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white" height="20"/>
+
+---
 > GitHub Profile Status
 
 <p align="center">
