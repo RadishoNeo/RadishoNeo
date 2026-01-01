@@ -5,6 +5,7 @@ on:
   workflow_dispatch:      # 也可手动触发
 jobs:
   update-stats:
+    environment: env
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
