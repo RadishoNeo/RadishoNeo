@@ -26,6 +26,15 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/RadishoNeo?label=Total%20Stars&color=FF6A3D)
 <!--START_SECTION:waka-->
+
+```txt
+Java              7 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Vue.js            7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+TypeScript        5 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+SQL               4 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Markdown          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+```
+
 <!--END_SECTION:waka-->
 <!-- Intro  -->
 <h3 align="center">
