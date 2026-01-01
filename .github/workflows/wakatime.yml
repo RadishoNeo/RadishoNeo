@@ -8,14 +8,33 @@ on:
     branches:
     - main
     
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           SHOW_TOTAL: true
+#           IGNORED_LANGUAGES: YAML JSON TOML
+#           TIME_RANGE: last_year
+
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TOTAL: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          TIME_RANGE: last_year
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE : "False"
+          SHOW_PROFILE_VIEWS : "False"
+          SHOW_LANGUAGE_PER_REPO : "False"
+          SHOW_LOC_CHART : "False"
+          SHOW_SHORT_INFO : "False"
+          SHOW_PROJECTS : "False"
+          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_TITLE : true
