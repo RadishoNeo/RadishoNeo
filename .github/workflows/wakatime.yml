@@ -8,7 +8,6 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    environment: env         # 这里对应你建的 environment 名称
     steps:
       - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
