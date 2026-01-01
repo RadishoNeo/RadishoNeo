@@ -1,20 +1,12 @@
-name: WakaTime Stats
-
+name: Waka Readme
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"      # 每天 00:00 跑一次
-  workflow_dispatch:         # 允许手动触发
-
+    - cron: "0 0 * * *"   # 每天 UTC 00:00
 jobs:
-  update-stats:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 下面都是可选，想改再放开
-          BLOCKS: ░▒▓█
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
