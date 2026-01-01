@@ -1,7 +1,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wish&nbsp;you&nbsp;a&nbsp;pleasant&nbsp;day!&center=true&size=27)](https://git.io/typing-svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
@@ -32,6 +31,8 @@ Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
@@ -86,13 +87,8 @@ Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadishoNeo&theme=dark&hide_border=true" alt="RadishoNeo"/>
   </a>
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RadishoNeo&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadishoNeo&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true"  width="35%">
-</p>
-
-<br/>
-<br/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RadishoNeo&theme=radical" alt="profile-details" />
+</div>
 <br/>
 
