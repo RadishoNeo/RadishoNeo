@@ -17,14 +17,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RadishoNeo/RadishoNeo/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<a href="https://komarev.com/ghpvc/?username=RadishoNeo">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=RadishoNeo&label=Profile%20Views&icon=5&pretty=true" />
-</a>
-
-<!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RadishoNeo.RadishoNeo)
 ![GitHub User's stars](https://img.shields.io/github/stars/RadishoNeo?label=Total%20Stars&color=FF6A3D)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RadishoNeo.RadishoNeo)
 <!--START_SECTION:waka-->
 
 ```txt
