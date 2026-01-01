@@ -1,17 +1,21 @@
 name: WakaTime Stats
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天 00:00 跑一次
-  workflow_dispatch:      # 也可手动触发
+    - cron: "0 0 * * *"      # 每天 00:00 跑一次
+  workflow_dispatch:         # 允许手动触发
+
 jobs:
   update-stats:
-    environment: env
     runs-on: ubuntu-latest
+    environment: env         # 这里对应你建的 environment 名称
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master     # 社区常用 action
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: RadishoNeo
-          BLOCKS: ░▒▓█                  # 进度条样式，可改
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # 下面都是可选，想改再放开
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
