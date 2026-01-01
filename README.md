@@ -80,7 +80,7 @@ Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
 🚀 &emsp; Frontend specialist with shadcn/ui + Tailwind CSS combo<br/><br/>
   
-🌐 &emsp; Portfolio: <a href="https://radishon.com">radishon.com</a><br/><br/>
+🌐 &emsp; Portfolio: <a href="https://radishon.com">radishon.com</a> | <a href="https://yoyou.org">yoyou.org</a><br/><br/>
   
 📧 &emsp; Contact: <a href="mailto:qingbo.my@gmail.com">qingbo.my@gmail.com</a><br/><br/>
   
