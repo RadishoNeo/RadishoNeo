@@ -28,11 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              7 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Vue.js            7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-TypeScript        5 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-SQL               4 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Markdown          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Total Time: 89 hrs 38 mins
+
+Vue.js            33 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.80 %
+TypeScript        17 hrs 53 mins  ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.63 %
+Java              17 hrs 38 mins  ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.36 %
+SQL               7 hrs 36 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.35 %
+Bash              2 hrs 6 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.32 %
 ```
 
 <!--END_SECTION:waka-->
