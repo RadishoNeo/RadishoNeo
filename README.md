@@ -23,7 +23,7 @@
 </a>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/.svg)](https://wakatime.com/@) -->
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RadishoNeo.RadishoNeo)
 ![GitHub User's stars](https://img.shields.io/github/stars/RadishoNeo?label=Total%20Stars&color=FF6A3D)
 <!--START_SECTION:waka-->
 
